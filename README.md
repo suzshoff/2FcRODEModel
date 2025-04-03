@@ -1,6 +1,6 @@
 **README**
 
-Developed by Suzanne Shoffner-Beck and Kade Wong at the University of Michigan as an expansion on Melissa Lemke's model (see https://github.com/melissalemke/Ab_FcR_ODE)
+Developed by Suzanne Shoffner-Beck and Kade Wong at the Arnold Lab at University of Michigan as an expansion on Melissa Lemke's model (see https://github.com/melissalemke/Ab_FcR_ODE)
 
 **Overview**
 
