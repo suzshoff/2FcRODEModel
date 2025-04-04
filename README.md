@@ -10,7 +10,7 @@ This repository contains MATLAB code for an ODE-based mathematical model investi
 
 _Helper Files/_ – Includes the ODE equations and parameter definitions necessary for running the model simulations.
 
-_1DSA/_ – Shows an example of how to call functions and plot the timeline for the formation of complexes
+_Baseline/_ – Shows an example of how to call functions and plot the timeline for the formation of complexes for a baseline simulation
 
 _1DSA/_ – Contains scripts for one-dimensional sensitivity analysis (1DSA) to evaluate parameter influence on FcR activation.
 
